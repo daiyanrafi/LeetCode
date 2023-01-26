@@ -1,3 +1,4 @@
+//sliding window pattern
 var lengthOfLongestSubstring = function (s) {
     let max=0;
     let windowStart = 0;
