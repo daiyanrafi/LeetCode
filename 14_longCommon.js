@@ -1,6 +1,6 @@
 //longest common prefix
 // let longestCommonPrefix = function (strs) 
- 
+ //that was 
 
 //approch with function
 function longestCommonPrefix(strs){
