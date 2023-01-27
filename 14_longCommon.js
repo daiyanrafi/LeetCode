@@ -15,7 +15,7 @@ function longestCommonPrefix(strs){
     return prefix;
 }
 
-// another approch
+// another approch*
 
 var longestCommonPrefix = function(strs) {
     for (let i = 0; i < strs[0].length; i++) {
