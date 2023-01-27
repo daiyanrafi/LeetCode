@@ -1,6 +1,6 @@
 //bruteforce method (loop) with stack dsa. stack has 2 implementation 1)array 2)linklist
 //array
-
+//(bruteforce method- loop)
 var isValid = function(s) {
     let stack = [];
 
