@@ -7,7 +7,7 @@ var removeElement = function (nums, val) {
   }
 };
 
-//another approach
+//another approach same just opposite direction
 
 var removeElement = function (nums, val) {
   for (let i = num.length - 1; i >= 0; i--) {
