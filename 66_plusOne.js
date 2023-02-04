@@ -9,3 +9,6 @@ var plusOne = function(digits) {
     digits.unshift(1);
     return digits;
 };
+
+//ts: O(n)
+//sc: O(1)
